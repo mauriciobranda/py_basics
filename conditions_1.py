@@ -6,5 +6,4 @@ if cur_speed > 80:
 else:
     print("you are good to go!")
 
-print(%(cur_speed - 80))
 

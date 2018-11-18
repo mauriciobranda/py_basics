@@ -52,4 +52,4 @@ while choice =='0':
         print("A soma dos valores é: "+str(soma))
         choice = '0'
     else:
-        print("I don't understand your choice.")﻿
+        print("I don't understand your choice.")
